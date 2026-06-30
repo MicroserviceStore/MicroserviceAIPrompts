@@ -1,0 +1,6 @@
+name: "Bluetooth"
+description: "Bluetooth Prompts."
+status: "InProgress"
+subcategories:
+  - "bluetooth"
+  - "ble"

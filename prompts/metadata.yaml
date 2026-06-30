@@ -1,0 +1,6 @@
+name: "ROOT"
+description: "Root"
+status: "InUse"
+subcategories:
+  - "cryptography"
+  - "connectivity"

@@ -1,0 +1,6 @@
+name: "Connectivity"
+description: "AI prompts for network stacks, wireless protocols, and wired communication interfaces."
+status: "InProgress"
+subcategories:
+  - "bluetooth"
+  - "wifi"
